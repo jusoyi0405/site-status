@@ -95,7 +95,7 @@ import { useHead } from '#imports';
 
 useHead({
   bodyAttrs: {
-    style: 'background-image: url("https://photo.ianip.eu.org/file/1744622767691_9oJBcT5ZtUBuJsxIaPdioasXmSOmYWRDwbT7QcG0-0E.jpg"); background-size: cover; background-position: center; background-repeat: no-repeat;'
+    style: 'background-image: url("https://photo.ianip.eu.org/file/1744888692368_陎諾 漆阨 藝屾躓 啞伎赽雄鞦族祧_捨偉族祧.jpg"); background-size: cover; background-position: center; background-repeat: no-repeat;'
   }
 });
 </script>
