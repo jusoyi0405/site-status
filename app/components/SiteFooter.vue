@@ -50,7 +50,6 @@ const { siteIcp, version } = configPublic;
 
 const linkData = {
   home: "https://ianip.eu.org",
-  email: "jusoyi0405@gmail.com",
 };
 </script>
 
