@@ -50,7 +50,6 @@ const { public: configPublic } = useRuntimeConfig();
 const { siteIcp, version } = configPublic;
 
 const linkData = {
-  youtube: "https://youtube.com/@jusoyi0405",
   home: "https://ianip.eu.org",
   email: "jusoyi0405@gmail.com",
 };
