@@ -91,6 +91,13 @@ onBeforeMount(checkSite);
 onMounted(() => {
   setSiteLang(statusStore.siteLang);
 });
+import { useHead } from '#imports';
+
+useHead({
+  bodyAttrs: {
+    style: 'background-image: url("https://photo.ianip.eu.org/file/1744622767691_9oJBcT5ZtUBuJsxIaPdioasXmSOmYWRDwbT7QcG0-0E.jpg"); background-size: cover; background-position: center; background-repeat: no-repeat;'
+  }
+});
 </script>
 
 <style lang="scss" scoped>
